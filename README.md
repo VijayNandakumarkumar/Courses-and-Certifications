@@ -2,7 +2,8 @@
 Information about the courses I've completed, contests I've participated and the certificates I've collected so far.
 
 * ## Courses Completed
-  *  Learn Python2 - Codecademy
+  *  Data Structures and Algorithms in Python. [view_completion](https://drive.google.com/open?id=1UFLWcntMkj_PhahbrCuehUCKRkqOTe5u)
+  *  Learn Python2 - Codecademy.[view_completion](https://drive.google.com/open?id=1aLCe9KAmKKGeaHgoO96BcpqSZchkOskT)
   *  Core Java - SoloLearn
   
 * ## Certificates
