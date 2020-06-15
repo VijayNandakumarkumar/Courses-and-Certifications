@@ -2,6 +2,7 @@
 Information about the courses I've completed, contests I've participated and the certificates I've collected so far.
 
 * ## Courses Completed
+  *  Developing Android Apps. [view_completion](https://drive.google.com/drive/folders/1hSEkjbtRA4N8HGKtVTP9qh8d1gG2UWjW?usp=sharing)
   *  Data Structures and Algorithms in Python. [view_completion](https://drive.google.com/open?id=1UFLWcntMkj_PhahbrCuehUCKRkqOTe5u)
   *  Learn Python2 - Codecademy.[view_completion](https://drive.google.com/open?id=1aLCe9KAmKKGeaHgoO96BcpqSZchkOskT)
   *  Core Java - SoloLearn
